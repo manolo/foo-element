@@ -1,20 +1,17 @@
 {
-  "name": "@vaadin/foo-element",
+  "name": "@manolo/foo-element",
   "version": "0.0.0",
   "description": "foo-element",
   "main": "foo-element.html",
-  "repository": "vaadin/foo-element",
+  "repository": "manolo/foo-element",
   "keywords": [
-    "Vaadin",
     "foo-element",
     "web-components",
     "web-component",
     "polymer"
   ],
-  "author": "Vaadin Ltd",
-  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/vaadin/foo-element/issues"
+    "url": "https://github.com/manolo/foo-element/issues"
   },
   "homepage": "https://vaadin.com/components",
   "scripts": {
