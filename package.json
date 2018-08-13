@@ -1,6 +1,7 @@
 {
   "name": "@manolo/foo-element",
   "version": "0.0.1-beta45",
+  "foo": "bar",
   "description": "foo-element",
   "main": "foo-element.html",
   "repository": "manolo/foo-element",
