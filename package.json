@@ -1,6 +1,6 @@
 {
   "name": "@manolo/foo-element",
-  "version": "0.0.1-beta51",
+  "version": "0.0.1-beta52",
   "foo": "bar",
   "description": "foo-element",
   "main": "foo-element.html",
