@@ -7,6 +7,8 @@
 [![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/foo-element-directory-urlidentifier.svg)](https://vaadin.com/directory/component/vaadinfoo-element)
 
 
+
+
 # &lt;foo-element&gt;
 
 [Live Demo ↗](https://vaadin.com/components/foo-element/html-examples)
